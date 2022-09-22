@@ -1,7 +1,8 @@
 {
   "social-links": [
     { "id": 1, "name": "Facebook", "url": "https://facebook.com" },
-    { "id": 2, "name": "Youtube", "url": "https://youtube.com" }
+    { "id": 2, "name": "Youtube", "url": "https://youtube.com" },
+    { "id": 3, "name": "TikTok", "url": "https://tiktok.com" }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
